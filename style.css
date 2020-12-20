@@ -1,0 +1,50 @@
+nav {
+    background-color: #f79595;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 55px;
+    box-shadow: 0 0 15px 2px;
+}
+
+#searchbtn {
+    padding: 6px 5px 0px 5px;
+}
+
+.searcharea {
+    background-color: #95f79a52;
+    padding: 20px;
+    
+    
+}
+
+.uvindex {
+    padding: 5px;
+}
+
+.one-fifth {
+    box-sizing: border-box;
+    width: 20%;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.one-fifth:first-child {
+    margin-left: 0px;
+}
+
+.one-fifth:last-child{
+    margin-right: 0px;
+}
+
+.forecast {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 0px;
+}
+
+#cityforecast {
+    padding-top: 10px;
+}
