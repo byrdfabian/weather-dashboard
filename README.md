@@ -18,4 +18,4 @@ SO THAT I can plan a trip accordingly
 * Third-Party APIs
 
 ## Image of Webpage
-![](
+![](images/weatherdashboard.png)
